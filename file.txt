@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the first practical of sepm.
+=======
+This is a line
+>>>>>>> origin/master
